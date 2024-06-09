@@ -1,0 +1,6 @@
+The most interesting things
+1. Draw a picture to describe customer needs. 
+2. Fibonacci sequence.
+3. Write a short poem. 
+4. Write a user story. 
+5. Segment different graphics
